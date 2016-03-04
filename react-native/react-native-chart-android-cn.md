@@ -23,7 +23,7 @@ include ':react-native-chart-android'
 project(':react-native-chart-android').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-chart-android/android')
 ```
 
-* 修改build.gradlde文件，具体路径`android/app/build.gradle`
+* 修改build.gradle文件，具体路径`android/app/build.gradle`
 
 ```gradle
 ...
